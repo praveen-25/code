@@ -6,7 +6,7 @@ int fact(int);
 void main()
 {
   clrscr();
-  printf("\n\n\nFactorial : %d",fact(7));
+  printf("\n\n\nFactorial : %d",fact(n));
   getch();
 }
 int fact(int n)
